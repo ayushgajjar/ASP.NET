@@ -1,0 +1,14 @@
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.dll
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.pdb
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Models.dll
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Utility.dll
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Models.pdb
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.dll
+E:\visual.net\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.pdb
